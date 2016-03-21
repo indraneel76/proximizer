@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="/home/indraneel/Google Drive/Innovation_p/workspace/Proximizer_client/libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/home/indraneel/Google Drive/Innovation_p/workspace/Proximizer_client/libs/google-play-services.jar"/>
+	<classpathentry kind="lib" path="/home/indraneel/Google Drive/Innovation_p/workspace/Proximizer_client/libs/libGoogleAnalyticsV2.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
